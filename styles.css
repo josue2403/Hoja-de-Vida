@@ -1,0 +1,174 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.page {
+    max-width: 800px;
+    margin: 20px auto;
+    border: 1px solid #7a7fc7;
+}
+
+.header-section {
+    background-color: #7a7fc7;
+    color: white;
+}
+
+.container {
+    padding: 20px;
+}
+
+.header {
+    display: flex;
+    align-items: center;
+}
+
+.header img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin-left: 20px;
+    margin-right: 25px;
+}
+
+.contact-info h1 {
+    margin-top: 0;
+    margin-bottom: 5px;
+}
+
+.personal-info ul {
+    list-style: none;
+    padding: 0;
+}
+
+.personal-info ul li {
+    margin-bottom: 10px;
+    padding-left: 20px; /* Agrega padding izquierdo para separar los elementos del borde */
+
+}
+
+.personal-info ul li i {
+    margin-right: 10px; /* Reduce el margen derecho del icono */
+    font-size: 20px; /* Establece el tamaño fijo para los iconos */
+
+}
+
+
+.info-text {
+    font-size: 22px; /* Ajusta el tamaño del texto según lo necesites */
+}
+
+.fa-lg {
+    font-size: 30px; /* Ajusta el tamaño del icono según lo necesites */
+}
+
+
+hr {
+    border-top: 2px solid #7a7fc7; /* Establece el grosor y color de la línea */
+    margin-top: 20px; /* Ajusta el margen superior */
+    margin-bottom: 20px; /* Ajusta el margen inferior */
+}
+
+.container .education-section {
+    padding: 1px;
+    margin-top: -50px; /* Reducir el margen superior para subir la sección de "Estudios Realizados" */
+    margin-left: 20px; /* Ajustar el margen izquierdo según sea necesario */
+}
+
+.education-section h2 {
+    color: #7a7fc7;
+    margin-left: 15px;
+}
+
+.education-list {
+    list-style: none;
+    padding: 0;
+    margin-left: 15px;
+}
+
+.education-list .icono-educacion {
+    margin-left: 10px; /* Ajustar el margen izquierdo del icono */
+}
+
+
+.container .experience-section {
+    padding: 1px;
+    margin-top: -50px; /* Reducir el margen superior para subir la sección de "Estudios Realizados" */
+    margin-left: 20px; /* Ajustar el margen izquierdo según sea necesario */
+}
+
+.experience-section h2 {
+    color: #7a7fc7;
+    margin-left: 15px;
+}
+
+.experience-list {
+    list-style: none;
+    padding: 0;
+    margin-left: 15px;
+}
+
+.container .capacitation-section {
+    padding: 1px;
+    margin-top: -50px; /* Reducir el margen superior para subir la sección de "Estudios Realizados" */
+    margin-left: 20px; /* Ajustar el margen izquierdo según sea necesario */
+}
+
+.capacitation-section h2 {
+    color: #7a7fc7;
+    margin-left: 15px;
+}
+
+.capacitation-list {
+    list-style: none;
+    padding: 0;
+    margin-left: 15px;
+}
+
+
+.container .referencia-section {
+    padding: 1px;
+    margin-top: -50px; /* Reducir el margen superior para subir la sección de "Estudios Realizados" */
+    margin-left: 20px; /* Ajustar el margen izquierdo según sea necesario */
+}
+
+.referencia-section h2 {
+    color: #7a7fc7;
+    margin-left: 15px;
+}
+.referencia-section {
+    margin-top: 30px;
+}
+
+
+table {
+    width: 94%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    margin-left: 15px;
+}
+
+th, td {
+    border: 1px solid #dcdcdc;
+    padding: 12px;
+    text-align: left;
+}
+
+th {
+    background-color: #f2f2f2;
+    font-weight: bold;
+}
+
+tr:nth-child(even) {
+    background-color: #f7f7f7;
+}
+
+tr:hover {
+    background-color: #e5f6ff;
+    transition: background-color 0.3s ease;
+}
+
