@@ -44,36 +44,36 @@ body {
 
 .personal-info ul li {
     margin-bottom: 10px;
-    padding-left: 20px; /* Agrega padding izquierdo para separar los elementos del borde */
+    padding-left: 20px; 
 
 }
 
 .personal-info ul li i {
-    margin-right: 10px; /* Reduce el margen derecho del icono */
-    font-size: 20px; /* Establece el tamaño fijo para los iconos */
+    margin-right: 10px; 
+    font-size: 20px; 
 
 }
 
 
 .info-text {
-    font-size: 22px; /* Ajusta el tamaño del texto según lo necesites */
+    font-size: 22px;
 }
 
 .fa-lg {
-    font-size: 30px; /* Ajusta el tamaño del icono según lo necesites */
+    font-size: 30px; 
 }
 
 
 hr {
-    border-top: 2px solid #7a7fc7; /* Establece el grosor y color de la línea */
-    margin-top: 20px; /* Ajusta el margen superior */
-    margin-bottom: 20px; /* Ajusta el margen inferior */
+    border-top: 2px solid #7a7fc7;
+    margin-top: 20px; 
+    margin-bottom: 20px; 
 }
 
 .container .education-section {
     padding: 1px;
-    margin-top: -50px; /* Reducir el margen superior para subir la sección de "Estudios Realizados" */
-    margin-left: 20px; /* Ajustar el margen izquierdo según sea necesario */
+    margin-top: -50px; 
+    margin-left: 20px; 
 }
 
 .education-section h2 {
@@ -88,14 +88,14 @@ hr {
 }
 
 .education-list .icono-educacion {
-    margin-left: 10px; /* Ajustar el margen izquierdo del icono */
+    margin-left: 10px; 
 }
 
 
 .container .experience-section {
     padding: 1px;
-    margin-top: -50px; /* Reducir el margen superior para subir la sección de "Estudios Realizados" */
-    margin-left: 20px; /* Ajustar el margen izquierdo según sea necesario */
+    margin-top: -50px; 
+    margin-left: 20px; 
 }
 
 .experience-section h2 {
@@ -111,8 +111,8 @@ hr {
 
 .container .capacitation-section {
     padding: 1px;
-    margin-top: -50px; /* Reducir el margen superior para subir la sección de "Estudios Realizados" */
-    margin-left: 20px; /* Ajustar el margen izquierdo según sea necesario */
+    margin-top: -50px;
+    margin-left: 20px; 
 }
 
 .capacitation-section h2 {
@@ -129,8 +129,8 @@ hr {
 
 .container .referencia-section {
     padding: 1px;
-    margin-top: -50px; /* Reducir el margen superior para subir la sección de "Estudios Realizados" */
-    margin-left: 20px; /* Ajustar el margen izquierdo según sea necesario */
+    margin-top: -50px; 
+    margin-left: 20px; 
 }
 
 .referencia-section h2 {
